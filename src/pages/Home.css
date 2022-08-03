@@ -1,0 +1,49 @@
+.homePage {
+	width: 100%;
+	height: 100%;
+}
+
+.header {
+	padding: 12px;
+	background-color: #27415c;
+}
+
+.headerContent {
+	display: flex;
+}
+
+.inputContainer {
+	margin-top: 12px;
+	margin-bottom: 12px;
+}
+
+.inputField {
+	height: 26px;
+	width: 100px;
+	border: none;
+	padding: 0px 4px;
+	margin: 0px 16px;
+}
+
+.title {
+	color: white;
+	font-size: 14px;
+}
+
+.searchBtn {
+	cursor: pointer;
+	border: none;
+	padding: 6px;
+	background-color: white;
+}
+
+.content {
+	height: 90%;
+	background-color: #f4f4f4;
+	text-align: center;
+	margin: auto;
+}
+
+.theaterImg {
+	height: 90%;
+}
